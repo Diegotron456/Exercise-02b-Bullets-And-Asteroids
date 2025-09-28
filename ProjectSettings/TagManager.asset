@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Bullet
   - Spawn
+  - Asteroid
   layers:
   - Default
   - TransparentFX
